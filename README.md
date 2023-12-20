@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martin44lel from germany
-- 👀 I’m mostly interested in game development but im better in doing front-end eith html and css ✌🏼
+- 👀 I’m mostly interested in game development but im better in doing front-end with html and css ✌🏼
 - 🌱 I’m currently learning Java, C#, Python and web developing
 - 💁 i'm happy to get some usefull tipps :)
 - 📫 How to reach me: email: martin@chickennuggget.net
