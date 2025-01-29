@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Java, C#, Python and web developing
 - 💁 i'm happy to get some usefull tipps :)
 - 📫 How to reach me: email: martin@chickennuggget.net
-- 💻 On my website you find infos to my socials and soon recent projects https://chickennuggget.net or https://martin04lel.cloud 🙂
-  
+- 💻 On my website you find infos to my socials and soon recent projects https://chickennuggget.net 🙂
 <!---
 martin44lel/martin44lel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
